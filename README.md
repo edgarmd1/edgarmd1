@@ -10,7 +10,7 @@ I am a person passionate about video games. I love programming, creating 3D mode
 - **Game Engines***: Unity
 
 ## Projects
-I'm currently working on some Unity projects on how implement AI systems to games.
+I'm currently working on some Unity projects on how implement AI systems to games and developing my own [game engine](https://github.com/ClaseAltaGames/MotorVideojuegos)
 
 ## 📈 GitHub Stats
 
